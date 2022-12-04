@@ -10,7 +10,6 @@ The player can press the "1", "2" or "3" key to change difficulty at any time. T
 * The strength of the wind gusts
 * The speed of the wind changes
 
-I also made this project to learn Unity, and now I share the code to let others learn and improve the game.
+I also made this project to learn Unity, and now I share the code to let others learn and improve the game. The source code is available at https://github.com/abienvenu/rotaplanche - pull requests are welcome :-)
 
-Feel free to send me a message if you make a better version of the game, or if you know about other OpenSource tiny games for casual gamers.
-
+Have fun!
